@@ -1,0 +1,13 @@
+{
+  "name": "electromedicina",
+  "version": "0.1.0",
+  "description": "Skills de ingeniería clínica para agentes de IA: informes de seguridad eléctrica IEC 62353, diagnóstico de averías de equipos electromédicos y fichas de inventario.",
+  "author": {
+    "name": "Raúl Hernández Herce",
+    "url": "https://github.com/raulhernandezherce"
+  },
+  "homepage": "https://github.com/raulhernandezherce/electromedicina-skills",
+  "repository": "https://github.com/raulhernandezherce/electromedicina-skills",
+  "license": "MIT",
+  "keywords": ["electromedicina", "biomedical-engineering", "clinical-engineering", "iec-62353", "medical-devices", "maintenance"]
+}

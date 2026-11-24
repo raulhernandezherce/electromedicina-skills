@@ -1,0 +1,23 @@
+{
+  "equipo": {
+    "nombre": "Monitor multiparamétrico",
+    "marca": "Ejemplo",
+    "modelo": "MX-500",
+    "serie": "SN-000123",
+    "inventario": "MON-014",
+    "ubicacion": "UCI · box 3",
+    "clase": "I",
+    "parte_aplicable": "CF"
+  },
+  "motivo": "tras reparación (sustitución del módulo de ECG)",
+  "metodo": "directo",
+  "analizador": "Analizador de seguridad eléctrica (calibrado)",
+  "fecha": "2026-11-24",
+  "tecnico": "Técnico de electromedicina",
+  "mediciones": {
+    "resistencia_tierra_ohm": 0.12,
+    "fuga_equipo_uA": 180,
+    "fuga_parte_aplicable_uA": 8,
+    "aislamiento_Mohm": 45
+  }
+}

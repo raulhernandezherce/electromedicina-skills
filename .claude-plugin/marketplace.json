@@ -1,0 +1,24 @@
+{
+  "name": "electromedicina-skills",
+  "owner": {
+    "name": "Raúl Hernández Herce",
+    "url": "https://github.com/raulhernandezherce"
+  },
+  "metadata": {
+    "description": "Skills de ingeniería clínica y electromedicina para Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "electromedicina",
+      "description": "Informes de seguridad eléctrica IEC 62353, diagnóstico de averías y fichas de equipos electromédicos.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Raúl Hernández Herce",
+        "url": "https://github.com/raulhernandezherce"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/raulhernandezherce/electromedicina-skills"
+    }
+  ]
+}
